@@ -26,6 +26,7 @@ body {
 /* ╚════════════════════════════════════════╝ */
 .main-container {
     display: grid;
+    overflow: hidden;
 }
 
 .box {
